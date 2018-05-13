@@ -1,0 +1,1932 @@
+fileFormatVersion: 2
+guid: fb37c54a38b40004dba8dd922452e511
+timeCreated: 1520269534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sonic_mania_sprites_by_tazdrongo-dblf8qv_0
+    21300002: sonic_mania_sprites_by_tazdrongo-dblf8qv_1
+    21300004: sonic_mania_sprites_by_tazdrongo-dblf8qv_2
+    21300006: sonic_mania_sprites_by_tazdrongo-dblf8qv_3
+    21300008: sonic_mania_sprites_by_tazdrongo-dblf8qv_4
+    21300010: sonic_mania_sprites_by_tazdrongo-dblf8qv_5
+    21300012: sonic_mania_sprites_by_tazdrongo-dblf8qv_6
+    21300014: sonic_mania_sprites_by_tazdrongo-dblf8qv_7
+    21300016: sonic_mania_sprites_by_tazdrongo-dblf8qv_8
+    21300018: sonic_mania_sprites_by_tazdrongo-dblf8qv_9
+    21300020: sonic_mania_sprites_by_tazdrongo-dblf8qv_10
+    21300022: sonic_mania_sprites_by_tazdrongo-dblf8qv_11
+    21300024: sonic_mania_sprites_by_tazdrongo-dblf8qv_12
+    21300026: sonic_mania_sprites_by_tazdrongo-dblf8qv_13
+    21300028: sonic_mania_sprites_by_tazdrongo-dblf8qv_14
+    21300030: sonic_mania_sprites_by_tazdrongo-dblf8qv_15
+    21300032: sonic_mania_sprites_by_tazdrongo-dblf8qv_16
+    21300034: sonic_mania_sprites_by_tazdrongo-dblf8qv_17
+    21300036: sonic_mania_sprites_by_tazdrongo-dblf8qv_18
+    21300038: sonic_mania_sprites_by_tazdrongo-dblf8qv_19
+    21300040: sonic_mania_sprites_by_tazdrongo-dblf8qv_20
+    21300042: sonic_mania_sprites_by_tazdrongo-dblf8qv_21
+    21300044: sonic_mania_sprites_by_tazdrongo-dblf8qv_22
+    21300046: sonic_mania_sprites_by_tazdrongo-dblf8qv_23
+    21300048: sonic_mania_sprites_by_tazdrongo-dblf8qv_24
+    21300050: sonic_mania_sprites_by_tazdrongo-dblf8qv_25
+    21300052: sonic_mania_sprites_by_tazdrongo-dblf8qv_26
+    21300054: sonic_mania_sprites_by_tazdrongo-dblf8qv_27
+    21300056: sonic_mania_sprites_by_tazdrongo-dblf8qv_28
+    21300058: sonic_mania_sprites_by_tazdrongo-dblf8qv_29
+    21300060: sonic_mania_sprites_by_tazdrongo-dblf8qv_30
+    21300062: sonic_mania_sprites_by_tazdrongo-dblf8qv_31
+    21300064: sonic_mania_sprites_by_tazdrongo-dblf8qv_32
+    21300066: sonic_mania_sprites_by_tazdrongo-dblf8qv_33
+    21300068: sonic_mania_sprites_by_tazdrongo-dblf8qv_34
+    21300070: sonic_mania_sprites_by_tazdrongo-dblf8qv_35
+    21300072: sonic_mania_sprites_by_tazdrongo-dblf8qv_36
+    21300074: sonic_mania_sprites_by_tazdrongo-dblf8qv_37
+    21300076: sonic_mania_sprites_by_tazdrongo-dblf8qv_38
+    21300078: sonic_mania_sprites_by_tazdrongo-dblf8qv_39
+    21300080: sonic_mania_sprites_by_tazdrongo-dblf8qv_40
+    21300082: sonic_mania_sprites_by_tazdrongo-dblf8qv_41
+    21300084: sonic_mania_sprites_by_tazdrongo-dblf8qv_42
+    21300086: sonic_mania_sprites_by_tazdrongo-dblf8qv_43
+    21300088: sonic_mania_sprites_by_tazdrongo-dblf8qv_44
+    21300090: sonic_mania_sprites_by_tazdrongo-dblf8qv_45
+    21300092: sonic_mania_sprites_by_tazdrongo-dblf8qv_46
+    21300094: sonic_mania_sprites_by_tazdrongo-dblf8qv_47
+    21300096: sonic_mania_sprites_by_tazdrongo-dblf8qv_48
+    21300098: sonic_mania_sprites_by_tazdrongo-dblf8qv_49
+    21300100: sonic_mania_sprites_by_tazdrongo-dblf8qv_50
+    21300102: sonic_mania_sprites_by_tazdrongo-dblf8qv_51
+    21300104: sonic_mania_sprites_by_tazdrongo-dblf8qv_52
+    21300106: sonic_mania_sprites_by_tazdrongo-dblf8qv_53
+    21300108: sonic_mania_sprites_by_tazdrongo-dblf8qv_54
+    21300110: sonic_mania_sprites_by_tazdrongo-dblf8qv_55
+    21300112: sonic_mania_sprites_by_tazdrongo-dblf8qv_56
+    21300114: sonic_mania_sprites_by_tazdrongo-dblf8qv_57
+    21300116: sonic_mania_sprites_by_tazdrongo-dblf8qv_58
+    21300118: sonic_mania_sprites_by_tazdrongo-dblf8qv_59
+    21300120: sonic_mania_sprites_by_tazdrongo-dblf8qv_60
+    21300122: sonic_mania_sprites_by_tazdrongo-dblf8qv_61
+    21300124: sonic_mania_sprites_by_tazdrongo-dblf8qv_62
+    21300126: sonic_mania_sprites_by_tazdrongo-dblf8qv_63
+    21300128: sonic_mania_sprites_by_tazdrongo-dblf8qv_64
+    21300130: sonic_mania_sprites_by_tazdrongo-dblf8qv_65
+    21300132: sonic_mania_sprites_by_tazdrongo-dblf8qv_66
+    21300134: sonic_mania_sprites_by_tazdrongo-dblf8qv_67
+    21300136: sonic_mania_sprites_by_tazdrongo-dblf8qv_68
+    21300138: sonic_mania_sprites_by_tazdrongo-dblf8qv_69
+    21300140: sonic_mania_sprites_by_tazdrongo-dblf8qv_70
+    21300142: sonic_mania_sprites_by_tazdrongo-dblf8qv_71
+    21300144: sonic_mania_sprites_by_tazdrongo-dblf8qv_72
+    21300146: sonic_mania_sprites_by_tazdrongo-dblf8qv_73
+    21300148: sonic_mania_sprites_by_tazdrongo-dblf8qv_74
+    21300150: sonic_mania_sprites_by_tazdrongo-dblf8qv_75
+    21300152: sonic_mania_sprites_by_tazdrongo-dblf8qv_76
+    21300154: sonic_mania_sprites_by_tazdrongo-dblf8qv_77
+    21300156: sonic_mania_sprites_by_tazdrongo-dblf8qv_78
+    21300158: sonic_mania_sprites_by_tazdrongo-dblf8qv_79
+    21300160: sonic_mania_sprites_by_tazdrongo-dblf8qv_80
+    21300162: sonic_mania_sprites_by_tazdrongo-dblf8qv_81
+    21300164: sonic_mania_sprites_by_tazdrongo-dblf8qv_82
+    21300166: sonic_mania_sprites_by_tazdrongo-dblf8qv_83
+    21300168: sonic_mania_sprites_by_tazdrongo-dblf8qv_84
+    21300170: sonic_mania_sprites_by_tazdrongo-dblf8qv_85
+    21300172: sonic_mania_sprites_by_tazdrongo-dblf8qv_86
+    21300174: sonic_mania_sprites_by_tazdrongo-dblf8qv_87
+    21300176: sonic_mania_sprites_by_tazdrongo-dblf8qv_88
+    21300178: sonic_mania_sprites_by_tazdrongo-dblf8qv_89
+    21300180: sonic_mania_sprites_by_tazdrongo-dblf8qv_90
+    21300182: sonic_mania_sprites_by_tazdrongo-dblf8qv_91
+    21300184: sonic_mania_sprites_by_tazdrongo-dblf8qv_92
+    21300186: sonic_mania_sprites_by_tazdrongo-dblf8qv_93
+    21300188: sonic_mania_sprites_by_tazdrongo-dblf8qv_94
+    21300190: sonic_mania_sprites_by_tazdrongo-dblf8qv_95
+    21300192: sonic_mania_sprites_by_tazdrongo-dblf8qv_96
+    21300194: sonic_mania_sprites_by_tazdrongo-dblf8qv_97
+    21300196: sonic_mania_sprites_by_tazdrongo-dblf8qv_98
+    21300198: sonic_mania_sprites_by_tazdrongo-dblf8qv_99
+    21300200: sonic_mania_sprites_by_tazdrongo-dblf8qv_100
+    21300202: sonic_mania_sprites_by_tazdrongo-dblf8qv_101
+    21300204: sonic_mania_sprites_by_tazdrongo-dblf8qv_102
+    21300206: sonic_mania_sprites_by_tazdrongo-dblf8qv_103
+    21300208: sonic_mania_sprites_by_tazdrongo-dblf8qv_104
+    21300210: sonic_mania_sprites_by_tazdrongo-dblf8qv_105
+    21300212: sonic_mania_sprites_by_tazdrongo-dblf8qv_106
+    21300214: sonic_mania_sprites_by_tazdrongo-dblf8qv_107
+    21300216: sonic_mania_sprites_by_tazdrongo-dblf8qv_108
+    21300218: sonic_mania_sprites_by_tazdrongo-dblf8qv_109
+    21300220: sonic_mania_sprites_by_tazdrongo-dblf8qv_110
+    21300222: sonic_mania_sprites_by_tazdrongo-dblf8qv_111
+    21300224: sonic_mania_sprites_by_tazdrongo-dblf8qv_112
+    21300226: sonic_mania_sprites_by_tazdrongo-dblf8qv_113
+    21300228: sonic_mania_sprites_by_tazdrongo-dblf8qv_114
+    21300230: sonic_mania_sprites_by_tazdrongo-dblf8qv_115
+    21300232: sonic_mania_sprites_by_tazdrongo-dblf8qv_116
+    21300234: sonic_mania_sprites_by_tazdrongo-dblf8qv_117
+    21300236: sonic_mania_sprites_by_tazdrongo-dblf8qv_118
+    21300238: sonic_mania_sprites_by_tazdrongo-dblf8qv_119
+    21300240: sonic_mania_sprites_by_tazdrongo-dblf8qv_120
+    21300242: sonic_mania_sprites_by_tazdrongo-dblf8qv_121
+    21300244: sonic_mania_sprites_by_tazdrongo-dblf8qv_122
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 399
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 399
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 399
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 399
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 399
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 399
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 399
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 399
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 433
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 433
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 434
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 433
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_18
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 434
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 401
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 401
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 401
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 401
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 401
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_29
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 401
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 403
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_31
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 402
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 402
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 401
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_34
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 402
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_35
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 402
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 353
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 353
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 353
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 353
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 353
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 353
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 353
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 353
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 354
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 354
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 355
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_47
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 369
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_48
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 369
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 369
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_53
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 309
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_55
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 306
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_56
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 306
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 307
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_58
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 306
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_59
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 306
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 306
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_61
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 307
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_62
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 306
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_63
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 305
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 305
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_65
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 305
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_66
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 306
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 252
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 252
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_69
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 252
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 252
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_72
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 259
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 259
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_74
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 259
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 259
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 259
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_77
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 260
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_78
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 260
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_79
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 260
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_80
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 261
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_81
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 261
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_82
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 261
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 205
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_84
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 205
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 199
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_88
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 205
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_89
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 206
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_90
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 206
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 206
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_92
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 206
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_93
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 206
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 206
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_95
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 206
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_96
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 206
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_97
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 206
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_98
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 206
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_99
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_100
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 152
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_101
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 152
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_102
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 152
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_103
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 151
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_104
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 151
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_105
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 151
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_106
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 151
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 151
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_108
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 151
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_109
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_110
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 98
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_115
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 98
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_116
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 98
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_118
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_119
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_120
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo-dblf8qv_122
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

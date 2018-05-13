@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: f3cb28c04c84e6a498a292372a411514
+timeCreated: 1520267714
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_0
+    21300002: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_1
+    21300004: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_2
+    21300006: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_3
+    21300008: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_4
+    21300010: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_5
+    21300012: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_6
+    21300014: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_7
+    21300016: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_8
+    21300018: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_9
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 54
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 54
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 54
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 54
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 54
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 54
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 54
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_ring_sprites__sonic_rush__by_facundogomez-d7w9qcu_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 54
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
